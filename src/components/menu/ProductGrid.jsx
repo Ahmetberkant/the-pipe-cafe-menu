@@ -20,7 +20,16 @@ export default function ProductGrid({
   return (
     <div className="py-6">
       <button
-        onClick={onBack}
+        onClick={() => {
+          onBack();
+
+          setTimeout(() => {
+            window.scrollTo({
+              top: 0,
+              behavior: "smooth",
+            });
+          }, 0);
+        }}
         className="fixed bottom-5 right-5 z-50 rounded-full bg-orange-900 px-6 py-4 text-lg font-semibold text-white shadow-2xl transition hover:scale-105 hover:bg-amber-700"
       >
         ← Geri
@@ -74,7 +83,6 @@ export default function ProductGrid({
           </div>
         )}
       </div>
-      <br />
     </div>
   );
 }
