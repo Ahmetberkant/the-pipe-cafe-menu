@@ -971,6 +971,24 @@
       "description": "Orman meyveleri ve buz aroması",
       "price": 350,
       "image": "/images/hookah/hookah.webp"
+    },
+    {
+      "id": 111,
+      "category": "cold-drinks",
+      "name": "Coca-Cola",
+      "description": "200 ml cam şişe",
+      "price": 100,
+      "calories": 85,
+      "image": "/images/cold-drinks/colacam.jpg"
+    },
+    {
+      "id": 112,
+      "category": "cold-drinks",
+      "name": "Cappy Meyve Suyu",
+      "description": "200 ml cam şişe",
+      "price": 100,
+      "calories": 110,
+      "image": "/images/cold-drinks/cappycam.jpeg"
     }
   ]
 }
