@@ -21,7 +21,7 @@ export default function ProductGrid({
     <div className="py-6">
       <button
         onClick={onBack}
-        className="mb-6 flex items-center gap-2 rounded-xl bg-orange-900 px-4 py-3 text-white transition hover:bg-amber-700"
+        className="fixed bottom-5 right-5 z-50 rounded-full bg-orange-900 px-6 py-4 text-lg font-semibold text-white shadow-2xl transition hover:scale-105 hover:bg-amber-700"
       >
         ← Geri
       </button>
@@ -75,12 +75,6 @@ export default function ProductGrid({
         )}
       </div>
       <br />
-      <button
-        onClick={onBack}
-        className="mb-6 flex items-center gap-2 rounded-xl bg-orange-900 px-4 py-3 text-white transition hover:bg-amber-700"
-      >
-        ← Geri
-      </button>
     </div>
   );
 }
