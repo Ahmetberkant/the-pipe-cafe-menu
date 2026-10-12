@@ -233,7 +233,7 @@
       "category": "cold-coffee",
       "name": "Çikolatalı Frappe",
       "description": "Yoğun çikolatalı buzlu frappe",
-      "price": 180,
+      "price": 200,
       "calories": 340,
       "image": "/images/cold-coffee/cikolatali-frappe.jpeg"
     },
@@ -242,7 +242,7 @@
       "category": "cold-coffee",
       "name": "Caramelli Frappe",
       "description": "Karamel soslu buzlu frappe",
-      "price": 180,
+      "price": 200,
       "calories": 330,
       "image": "/images/cold-coffee/caramelli-frappe.jpeg"
     },
