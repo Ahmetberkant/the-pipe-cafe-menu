@@ -431,7 +431,7 @@
       "category": "hot-coffee",
       "name": "Sütlü Kahve",
       "description": "Sıcak süt ile hazırlanan kahve",
-      "price": 150,
+      "price": 180,
       "calories": 90,
       "image": "/images/hot-coffee/sutlu-kahve.jpeg"
     },
@@ -796,32 +796,9 @@
       "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
+
     {
       "id": 89,
-      "category": "hookah",
-      "name": "Antibiyotik",
-      "description": "Özel meyve karışımı",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 90,
-      "category": "hookah",
-      "name": "Çift Elma",
-      "description": "Klasik çift elma aroması",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 91,
-      "category": "hookah",
-      "name": "Pişmiş Şeftali",
-      "description": "Tatlı şeftali aroması",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 92,
       "category": "hookah",
       "name": "Damla Sakızı",
       "description": "Yoğun damla sakızı aroması",
@@ -829,119 +806,33 @@
       "image": "/images/hookah/hookah.webp"
     },
     {
-      "id": 93,
+      "id": 90,
       "category": "hookah",
       "name": "Moskov",
       "description": "Özel meyve karışımı",
       "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
+
     {
-      "id": 94,
+      "id": 91,
       "category": "hookah",
-      "name": "Colo Molo",
-      "description": "Ferahlatıcı özel karışım",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 95,
-      "category": "hookah",
-      "name": "Nane Çikolata",
-      "description": "Nane ve çikolata aromalı",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 96,
-      "category": "hookah",
-      "name": "El Fakir",
-      "description": "Premium aroma serisi",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 97,
-      "category": "hookah",
-      "name": "Manifesto",
-      "description": "Özel karışım",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 98,
-      "category": "hookah",
-      "name": "Non Stop",
-      "description": "Yoğun meyve aroması",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 99,
-      "category": "hookah",
-      "name": "Tatlı Rüya",
+      "name": "Tatlı Cadı",
       "description": "Tatlı meyve aromalı karışım",
       "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
-      "id": 100,
+      "id": 92,
       "category": "hookah",
-      "name": "Bakoma",
+      "name": "Bakü",
       "description": "Özel nargile aroması",
       "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
+
     {
-      "id": 101,
-      "category": "hookah",
-      "name": "Latte",
-      "description": "Kahve aromalı nargile",
-      "price": 450,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 102,
-      "category": "hookah",
-      "name": "Yaban Mersini",
-      "description": "Yaban mersini aromalı",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 103,
-      "category": "hookah",
-      "name": "Colo Manzero",
-      "description": "Özel meyve karışımı",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 104,
-      "category": "hookah",
-      "name": "Miamar",
-      "description": "Tropikal aroma karışımı",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 105,
-      "category": "hookah",
-      "name": "Mango",
-      "description": "Mango aromalı",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 106,
-      "category": "hookah",
-      "name": "Baku Night",
-      "description": "Özel premium karışım",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 107,
+      "id": 93,
       "category": "hookah",
       "name": "Joker 777",
       "description": "Yoğun meyve aromalı özel karışım",
@@ -949,7 +840,7 @@
       "image": "/images/hookah/hookah.webp"
     },
     {
-      "id": 108,
+      "id": 94,
       "category": "hookah",
       "name": "Buz Nane",
       "description": "Buz gibi ferah nane aroması",
@@ -957,23 +848,16 @@
       "image": "/images/hookah/hookah.webp"
     },
     {
-      "id": 109,
+      "id": 95,
       "category": "hookah",
       "name": "Fresh Buz",
       "description": "Ekstra ferah buz aroması",
       "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
+
     {
-      "id": 110,
-      "category": "hookah",
-      "name": "Orman Meyve Buz",
-      "description": "Orman meyveleri ve buz aroması",
-      "price": 400,
-      "image": "/images/hookah/hookah.webp"
-    },
-    {
-      "id": 111,
+      "id": 96,
       "category": "cold-drinks",
       "name": "Coca-Cola",
       "description": "200 ml cam şişe",
@@ -982,13 +866,29 @@
       "image": "/images/cold-drinks/colacam.jpg"
     },
     {
-      "id": 112,
+      "id": 97,
       "category": "cold-drinks",
       "name": "Cappy Meyve Suyu",
       "description": "200 ml cam şişe",
       "price": 100,
       "calories": 110,
       "image": "/images/cold-drinks/cappycam.jpeg"
+    },
+    {
+      "id": 98,
+      "category": "hookah",
+      "name": "Enjoy",
+      "description": "Ekstra ferah buz aroması",
+      "price": 400,
+      "image": "/images/hookah/hookah.webp"
+    },
+    {
+      "id": 99,
+      "category": "hookah",
+      "name": "Haram",
+      "description": "Ekstra ferah buz aroması",
+      "price": 400,
+      "image": "/images/hookah/hookah.webp"
     }
   ]
 }
