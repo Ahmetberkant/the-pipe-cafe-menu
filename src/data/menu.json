@@ -134,7 +134,7 @@
       "category": "hot-coffee",
       "name": "Latte",
       "description": "Çift shot espresso ve süt",
-      "price": 150,
+      "price": 180,
       "calories": 190,
       "image": "/images/hot-coffee/latte.jpeg"
     },
@@ -143,7 +143,7 @@
       "category": "hot-coffee",
       "name": "Americano",
       "description": "Yoğun espresso",
-      "price": 150,
+      "price": 180,
       "calories": 10,
       "image": "/images/hot-coffee/americano.jpeg"
     },
@@ -188,7 +188,7 @@
       "category": "cold-coffee",
       "name": "Ice Americano",
       "description": "Çift shot espresso ve buz",
-      "price": 150,
+      "price": 180,
       "calories": 10,
       "image": "/images/cold-coffee/ice-americano.jpeg"
     },
@@ -197,7 +197,7 @@
       "category": "cold-coffee",
       "name": "Ice Latte",
       "description": "Espresso, süt ve buz",
-      "price": 150,
+      "price": 180,
       "calories": 130,
       "image": "/images/cold-coffee/ice-latte.jpeg"
     },
@@ -206,7 +206,7 @@
       "category": "cold-coffee",
       "name": "Ice Cappuccino",
       "description": "Espresso, süt köpüğü ve buz",
-      "price": 150,
+      "price": 180,
       "calories": 120,
       "image": "/images/cold-coffee/ice-cappuccino.jpeg"
     },
@@ -251,7 +251,7 @@
       "category": "cold-coffee",
       "name": "Soğuk Filtre Kahve",
       "description": "Soğuk demlenmiş filtre kahve",
-      "price": 150,
+      "price": 180,
       "calories": 5,
       "image": "/images/cold-coffee/soguk-filtre-kahve.jpeg"
     },
@@ -386,7 +386,7 @@
       "category": "hot-coffee",
       "name": "Türk Kahvesi",
       "description": "Geleneksel Türk kahvesi",
-      "price": 100,
+      "price": 110,
       "calories": 7,
       "image": "/images/hot-coffee/turk-kahvesi.jpeg"
     },
@@ -395,7 +395,7 @@
       "category": "hot-coffee",
       "name": "Sütlü Türk Kahvesi",
       "description": "Süt ile hazırlanan Türk kahvesi",
-      "price": 130,
+      "price": 140,
       "calories": 70,
       "image": "/images/hot-coffee/sutlu-turk-kahvesi.jpeg"
     },
@@ -404,7 +404,7 @@
       "category": "hot-coffee",
       "name": "Menengiç Kahvesi",
       "description": "Geleneksel menengiç kahvesi",
-      "price": 130,
+      "price": 140,
       "calories": 120,
       "image": "/images/hot-coffee/menengic-kahvesi.jpeg"
     },
@@ -413,7 +413,7 @@
       "category": "hot-coffee",
       "name": "Dibek Kahvesi",
       "description": "Osmanlı usulü dibek kahvesi",
-      "price": 130,
+      "price": 140,
       "calories": 110,
       "image": "/images/hot-coffee/dibek-kahvesi.jpeg"
     },
@@ -422,7 +422,7 @@
       "category": "hot-coffee",
       "name": "Filtre Kahve",
       "description": "Taze demlenmiş filtre kahve",
-      "price": 150,
+      "price": 180,
       "calories": 5,
       "image": "/images/hot-coffee/filtre-kahve.jpeg"
     },
@@ -440,7 +440,7 @@
       "category": "hot-coffee",
       "name": "Espresso",
       "description": "Tek shot espresso",
-      "price": 150,
+      "price": 180,
       "calories": 5,
       "image": "/images/hot-coffee/espresso.jpeg"
     },
@@ -449,7 +449,7 @@
       "category": "hot-coffee",
       "name": "Mocha",
       "description": "Espresso, süt ve çikolata",
-      "price": 150,
+      "price": 180,
       "calories": 260,
       "image": "/images/hot-coffee/mocha.jpeg"
     },
@@ -458,7 +458,7 @@
       "category": "hot-coffee",
       "name": "Cappuccino",
       "description": "Espresso, süt ve süt köpüğü",
-      "price": 150,
+      "price": 180,
       "calories": 150,
       "image": "/images/hot-coffee/cappuccino.jpeg"
     },
@@ -467,7 +467,7 @@
       "category": "desserts",
       "name": "Sufle",
       "description": "Akışkan çikolatalı sıcak sufle",
-      "price": 200,
+      "price": 250,
       "calories": 420,
       "image": "/images/desserts/sufle.jpg"
     },
@@ -476,7 +476,7 @@
       "category": "desserts",
       "name": "Dondurmalı Sufle",
       "description": "Vanilyalı dondurma ile servis edilir",
-      "price": 250,
+      "price": 300,
       "calories": 520,
       "image": "/images/desserts/dondurmali-sufle.jpg"
     },
@@ -503,7 +503,7 @@
       "category": "desserts",
       "name": "Fıstık Rüyası",
       "description": "Bol Antep fıstıklı özel tatlı",
-      "price": 240,
+      "price": 250,
       "calories": 540,
       "image": "/images/desserts/fistik-ruyasi.png"
     },
@@ -530,7 +530,7 @@
       "category": "foods",
       "name": "Sucuklu Tost",
       "description": "Kaşar peyniri ve sucuk ile hazırlanır.",
-      "price": 150,
+      "price": 180,
       "calories": 610,
       "image": "/images/foods/sucuklu-tost.jpeg"
     },
@@ -539,7 +539,7 @@
       "category": "foods",
       "name": "Kaşarlı Tost",
       "description": "Bol kaşar peyniri ile hazırlanır.",
-      "price": 150,
+      "price": 180,
       "calories": 520,
       "image": "/images/foods/kasarli-tost.jpeg"
     },
@@ -548,7 +548,7 @@
       "category": "foods",
       "name": "Kaşarlı Domatesli Tost",
       "description": "Kaşar peyniri ve taze domates.",
-      "price": 170,
+      "price": 200,
       "calories": 540,
       "image": "/images/foods/kasarli-domatesli-tost.jpeg"
     },
@@ -557,7 +557,7 @@
       "category": "foods",
       "name": "Karışık Tost",
       "description": "Kaşar, sucuk ve domates ile hazırlanır.",
-      "price": 150,
+      "price": 180,
       "calories": 690,
       "image": "/images/foods/karisik-tost.jpeg"
     },
@@ -566,7 +566,7 @@
       "category": "foods",
       "name": "Tost Tabağı",
       "description": "Patates kızartması ve garnitür ile servis edilir.",
-      "price": 200,
+      "price": 230,
       "calories": 930,
       "image": "/images/foods/tost-tabagi.jpeg"
     },
@@ -602,7 +602,7 @@
       "category": "foods",
       "name": "Köfte Ekmek",
       "description": "Izgara köfte and taze ekmek.",
-      "price": 270,
+      "price": 300,
       "calories": 760,
       "image": "/images/foods/kofte-ekmek.jpeg"
     },
@@ -620,7 +620,7 @@
       "category": "foods",
       "name": "Hamburger",
       "description": "120 gr dana köfte, marul ve domates.",
-      "price": 340,
+      "price": 350,
       "calories": 720,
       "image": "/images/foods/hamburger.jpg"
     },
@@ -629,7 +629,7 @@
       "category": "foods",
       "name": "Cheeseburger",
       "description": "Cheddar peynirli hamburger.",
-      "price": 360,
+      "price": 400,
       "calories": 780,
       "image": "/images/foods/cheeseburger.jpeg"
     },
@@ -647,7 +647,7 @@
       "category": "foods",
       "name": "Chicken Fingers Menü",
       "description": "Çıtır tavuk parçaları, patates ve içecek.",
-      "price": 370,
+      "price": 400,
       "calories": 980,
       "image": "/images/foods/chicken-fingers-menu.jpeg"
     },
@@ -656,7 +656,7 @@
       "category": "foods",
       "name": "Patso",
       "description": "Sosis, patates kızartması ve sos.",
-      "price": 200,
+      "price": 220,
       "calories": 780,
       "image": "/images/foods/patso.webp"
     },
@@ -665,7 +665,7 @@
       "category": "foods",
       "name": "Pipe Burger",
       "description": "Özel soslu çift katlı dana burger.",
-      "price": 400,
+      "price": 450,
       "calories": 980,
       "image": "/images/foods/pipe-burger.jpeg"
     },
@@ -674,7 +674,7 @@
       "category": "snacks",
       "name": "Patates Cips",
       "description": "İnce dilim çıtır patates cipsi.",
-      "price": 180,
+      "price": 200,
       "calories": 390,
       "image": "/images/snacks/patates-cips.jpg"
     },
@@ -683,7 +683,7 @@
       "category": "snacks",
       "name": "Sosis Sepeti",
       "description": "Kızarmış sosis, patates ve soslar.",
-      "price": 200,
+      "price": 225,
       "calories": 760,
       "image": "/images/snacks/sosis-sepeti.jpeg"
     },
@@ -692,7 +692,7 @@
       "category": "snacks",
       "name": "Combo Kızartma Menü",
       "description": "Combo kızartma, içecek ve özel soslar.",
-      "price": 200,
+      "price": 250,
       "calories": 1180,
       "image": "/images/snacks/combo-kizartma-menu.jpeg"
     },
@@ -737,7 +737,7 @@
       "category": "hookah",
       "name": "Adranain",
       "description": "Özel nargile aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -745,7 +745,7 @@
       "category": "hookah",
       "name": "Dejavu",
       "description": "Özel nargile aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -753,7 +753,7 @@
       "category": "hookah",
       "name": "İzmir Romantik",
       "description": "Özel nargile aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -761,7 +761,7 @@
       "category": "hookah",
       "name": "Love 66",
       "description": "Nane, karpuz ve kavun aromalı karışım",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -769,7 +769,7 @@
       "category": "hookah",
       "name": "Üzüm ",
       "description": "Üzüm ve nane aromalı",
-      "price": 400,
+      "price": 450,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -777,7 +777,7 @@
       "category": "hookah",
       "name": "Lady Killer",
       "description": "Egzotik meyve karışımı",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -785,7 +785,7 @@
       "category": "hookah",
       "name": "Mastik",
       "description": "Damla sakızı aromalı",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -793,7 +793,7 @@
       "category": "hookah",
       "name": "Çilek Karpuz",
       "description": "Çilek ve karpuz aromalı",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -801,7 +801,7 @@
       "category": "hookah",
       "name": "Antibiyotik",
       "description": "Özel meyve karışımı",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -809,7 +809,7 @@
       "category": "hookah",
       "name": "Çift Elma",
       "description": "Klasik çift elma aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -817,7 +817,7 @@
       "category": "hookah",
       "name": "Pişmiş Şeftali",
       "description": "Tatlı şeftali aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -825,7 +825,7 @@
       "category": "hookah",
       "name": "Damla Sakızı",
       "description": "Yoğun damla sakızı aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -833,7 +833,7 @@
       "category": "hookah",
       "name": "Moskov",
       "description": "Özel meyve karışımı",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -841,7 +841,7 @@
       "category": "hookah",
       "name": "Colo Molo",
       "description": "Ferahlatıcı özel karışım",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -849,7 +849,7 @@
       "category": "hookah",
       "name": "Nane Çikolata",
       "description": "Nane ve çikolata aromalı",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -857,7 +857,7 @@
       "category": "hookah",
       "name": "El Fakir",
       "description": "Premium aroma serisi",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -865,7 +865,7 @@
       "category": "hookah",
       "name": "Manifesto",
       "description": "Özel karışım",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -873,7 +873,7 @@
       "category": "hookah",
       "name": "Non Stop",
       "description": "Yoğun meyve aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -881,7 +881,7 @@
       "category": "hookah",
       "name": "Tatlı Rüya",
       "description": "Tatlı meyve aromalı karışım",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -889,7 +889,7 @@
       "category": "hookah",
       "name": "Bakoma",
       "description": "Özel nargile aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -897,7 +897,7 @@
       "category": "hookah",
       "name": "Latte",
       "description": "Kahve aromalı nargile",
-      "price": 400,
+      "price": 450,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -905,7 +905,7 @@
       "category": "hookah",
       "name": "Yaban Mersini",
       "description": "Yaban mersini aromalı",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -913,7 +913,7 @@
       "category": "hookah",
       "name": "Colo Manzero",
       "description": "Özel meyve karışımı",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -921,7 +921,7 @@
       "category": "hookah",
       "name": "Miamar",
       "description": "Tropikal aroma karışımı",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -929,7 +929,7 @@
       "category": "hookah",
       "name": "Mango",
       "description": "Mango aromalı",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -937,7 +937,7 @@
       "category": "hookah",
       "name": "Baku Night",
       "description": "Özel premium karışım",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -945,7 +945,7 @@
       "category": "hookah",
       "name": "Joker 777",
       "description": "Yoğun meyve aromalı özel karışım",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -953,7 +953,7 @@
       "category": "hookah",
       "name": "Buz Nane",
       "description": "Buz gibi ferah nane aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -961,7 +961,7 @@
       "category": "hookah",
       "name": "Fresh Buz",
       "description": "Ekstra ferah buz aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
@@ -969,7 +969,7 @@
       "category": "hookah",
       "name": "Orman Meyve Buz",
       "description": "Orman meyveleri ve buz aroması",
-      "price": 350,
+      "price": 400,
       "image": "/images/hookah/hookah.webp"
     },
     {
