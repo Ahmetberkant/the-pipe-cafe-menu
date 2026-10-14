@@ -620,7 +620,7 @@
       "category": "foods",
       "name": "Hamburger",
       "description": "120 gr dana köfte, marul ve domates.",
-      "price": 350,
+      "price": 400,
       "calories": 720,
       "image": "/images/foods/hamburger.jpg"
     },
@@ -638,7 +638,7 @@
       "category": "foods",
       "name": "Chicken Burger",
       "description": "Çıtır tavuk göğsü ile hazırlanır.",
-      "price": 300,
+      "price": 350,
       "calories": 690,
       "image": "/images/foods/chicken-burger.jpeg"
     },
