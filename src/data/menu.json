@@ -602,7 +602,7 @@
       "category": "foods",
       "name": "Köfte Ekmek",
       "description": "Izgara köfte and taze ekmek.",
-      "price": 300,
+      "price": 350,
       "calories": 760,
       "image": "/images/foods/kofte-ekmek.jpeg"
     },
@@ -611,7 +611,7 @@
       "category": "foods",
       "name": "Köfte Menü",
       "description": "Köfte, patates and içecek.",
-      "price": 370,
+      "price": 450,
       "calories": 1080,
       "image": "/images/foods/kofte-menu.jpeg"
     },
