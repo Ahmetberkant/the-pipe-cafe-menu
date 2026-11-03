@@ -269,7 +269,7 @@
       "category": "cold-drinks",
       "name": "Fanta",
       "description": "200 ml cam şişe",
-      "price": 100,
+      "price": 130,
       "calories": 148,
       "image": "/images/cold-drinks/fanta.jpg"
     },
@@ -305,7 +305,7 @@
       "category": "cold-drinks",
       "name": "Cappy Meyve Suyu",
       "description": "Karışık meyve seçenekleri",
-      "price": 100,
+      "price": 130,
       "calories": 110,
       "image": "/images/cold-drinks/cappy.jpeg"
     },
