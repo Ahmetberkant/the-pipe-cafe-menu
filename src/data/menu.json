@@ -592,7 +592,7 @@
       "id": 65,
       "category": "foods",
       "name": "İzmir Eritme Menü",
-      "description": "Patates ve içecek ile servis edilir.",
+      "description": "Patates ile servis edilir.",
       "price": 350,
       "calories": 1150,
       "image": "/images/foods/izmir-eritme-menu.jpeg"
@@ -610,7 +610,7 @@
       "id": 67,
       "category": "foods",
       "name": "Köfte Menü",
-      "description": "Köfte, patates and içecek.",
+      "description": "Köfte, patates.",
       "price": 450,
       "calories": 1080,
       "image": "/images/foods/kofte-menu.jpeg"
@@ -646,7 +646,7 @@
       "id": 71,
       "category": "foods",
       "name": "Chicken Fingers Menü",
-      "description": "Çıtır tavuk parçaları, patates ve içecek.",
+      "description": "Çıtır tavuk parçaları, patates.",
       "price": 400,
       "calories": 980,
       "image": "/images/foods/chicken-fingers-menu.jpeg"
@@ -691,7 +691,7 @@
       "id": 76,
       "category": "snacks",
       "name": "Combo Kızartma Menü",
-      "description": "Combo kızartma, içecek ve özel soslar.",
+      "description": "Combo kızartma ve soslar.",
       "price": 250,
       "calories": 1180,
       "image": "/images/snacks/combo-kizartma-menu.jpeg"
